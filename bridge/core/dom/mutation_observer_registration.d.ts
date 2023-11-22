@@ -1,3 +1,0 @@
-interface MutationObserverRegistration {
-  new(): void;
-}
